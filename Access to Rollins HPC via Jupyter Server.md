@@ -1,4 +1,8 @@
 ﻿# Access to Rollins HPC R environment, using Conda an Jupyter Server 
+ 
+Original version developed by Pengfei Liu, Liuhua Shi
+
+Modified by Wenhao Wang (wenhao.wang@emory.edu) 
 
 ## Why Conda?
 
